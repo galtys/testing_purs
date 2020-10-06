@@ -6,6 +6,11 @@
       "prelude",
       "uuid",
       "psci-support",
-      "sjcl"
+//      "sjcl",
+      "crypto",
+/     "script",
+      "numbers",
+      "byte-codec",
+      "bytestring"
   ]
 }
