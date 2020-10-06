@@ -5,6 +5,7 @@
   "depends": [
       "prelude",
       "uuid",
-      "psci-support"
+      "psci-support",
+      "sjcl"
   ]
 }
